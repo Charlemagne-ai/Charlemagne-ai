@@ -12,7 +12,7 @@ I'm a cybersecurity professional passionate about bridging the gap between **eme
 
 ## My Cybersecurity Portfolio
 
-### 🛡️ **Cloud & AI Security Projects**
+### ☁️ **Cloud & AI Security Projects**
 - Projects showcasing advanced security implementations in Cloud and AI environments, threat detection automation, and securing AI models from adversarial attacks.
 
 ### 🔍 **Threat Hunting & Security Operations**
@@ -20,6 +20,11 @@ I'm a cybersecurity professional passionate about bridging the gap between **eme
 
 ### ⚛️ **Quantum Security & Emerging Tech**
 - Research, strategies, and solutions exploring the frontier of Quantum Computing, quantum-resistant encryption, and securing next-generation technologies.
+
+### 🛡️ **Vulnerability Management**
+- **[Win10-STIG-Remediation Repository](https://github.com/Charlemagne-ai/Win10-STIG-Remediation)**
+
+
 
 ---
 
