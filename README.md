@@ -17,14 +17,14 @@ I'm a cybersecurity professional passionate about bridging the gap between **eme
 
 ### 🔍 **Threat Hunting & Security Operations**
 - Real-world projects highlighting proactive threat detection, behavioral analytics, incident response strategies, and innovative threat intelligence solutions.
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Charlemagne-ai/threat-hunting-scenario-tor)**
 
 ### ⚛️ **Quantum Security & Emerging Tech**
 - Research, strategies, and solutions exploring the frontier of Quantum Computing, quantum-resistant encryption, and securing next-generation technologies.
 
 ### 🛡️ **Vulnerability Management**
+- **[Vulnerability Management Program Implementation](https://github.com/Charlemagne-ai/vulnerability-management-program)**
 - **[Win10-STIG-Remediation Repository](https://github.com/Charlemagne-ai/Win10-STIG-Remediation)**
-
-
 
 ---
 
