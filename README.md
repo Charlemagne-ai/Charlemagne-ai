@@ -21,8 +21,8 @@ I'm a cybersecurity professional passionate about bridging the gap between **eme
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Charlemagne-ai/threat-hunting-scenario-tor)**
 
 ### 💥 **Offensive Security & Attack Labs**
-- [Active Directory Attack Lab](https://github.com/Charlemagne-ai/ad-attack-lab) 
-- [WebApp Attack Lab](https://github.com/YourName/WebApp-Attack-Lab) 
+- **[Active Directory Attack Lab](https://github.com/Charlemagne-ai/ad-attack-lab)** 
+- **[WebApp Attack Lab](https://github.com/YourName/WebApp-Attack-Lab)** 
 
 
 ### ⚛️ **Quantum Security & Emerging Tech**
