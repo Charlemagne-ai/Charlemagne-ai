@@ -14,10 +14,16 @@ I'm a cybersecurity professional passionate about bridging the gap between **eme
 
 ### ☁️ **Cloud & AI Security Projects**
 - Projects showcasing advanced security implementations in Cloud and AI environments, threat detection automation, and securing AI models from adversarial attacks.
+- **[AWS T-Pot Honeypot](https://github.com/Charlemagne-ai/aws-tpot-honeypot)**
 
 ### 🔍 **Threat Hunting & Security Operations**
 - Real-world projects highlighting proactive threat detection, behavioral analytics, incident response strategies, and innovative threat intelligence solutions.
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Charlemagne-ai/threat-hunting-scenario-tor)**
+
+### 💥 **Offensive Security & Attack Labs**
+- [Active Directory Attack Lab](https://github.com/Charlemagne-ai/ad-attack-lab) 
+- [WebApp Attack Lab](https://github.com/YourName/WebApp-Attack-Lab) 
+
 
 ### ⚛️ **Quantum Security & Emerging Tech**
 - Research, strategies, and solutions exploring the frontier of Quantum Computing, quantum-resistant encryption, and securing next-generation technologies.
