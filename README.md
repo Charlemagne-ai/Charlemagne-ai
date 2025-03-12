@@ -32,7 +32,7 @@ I'm a cybersecurity professional passionate about bridging the gap between **eme
 
 ---
 
-## ✍️ [Encrypted Thoughts Blog](https://futureuse)
+## ✍️ [Encrypted Thoughts Blog](https://charlemagne-ai.com/blog/)
 - Explore insights, walkthroughs, guides, and my cybersecurity journey through emerging technological landscapes.
 
 ---
