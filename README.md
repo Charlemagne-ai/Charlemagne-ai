@@ -14,6 +14,7 @@ I'm a cybersecurity professional passionate about bridging the gap between **eme
 
 ### ☁️ **Cloud & AI Security Projects**
 - **[AWS T-Pot Honeypot (*In Progress...*)](https://github.com/Charlemagne-ai/aws-tpot-honeypot)**
+- **[AWS Security Best Practices Guide](https://github.com/Charlemagne-ai/aws-hardening-guide)**
 
 ### 🔍 **Threat Hunting & Security Operations**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Charlemagne-ai/threat-hunting-scenario-tor)**
